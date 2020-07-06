@@ -1,2 +1,2 @@
 # layout
-🎨 free your UIs – cross-platform UI library for Go
+The Qt-powered cross-platform UI library for Golang that puts UI/UX at the forefront.
